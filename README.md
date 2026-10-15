@@ -1,3 +1,5 @@
+<img width="460" height="215" alt="image" src="https://github.com/user-attachments/assets/ec391a07-ef17-439a-ba46-17e4752f30da" />
+
 # Concordia
 
 Python version of the board game *Concordia* (PD-Verlag, Mac Gerdts), made for
